@@ -1,3 +1,3 @@
 # Project-Euler
 
-My Project Euler solutions, mainly written in C++. 
+My Project Euler solutions
